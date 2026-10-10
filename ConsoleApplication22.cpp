@@ -5,9 +5,9 @@
 
 int main()
 {
-    std::cout << "andrey ilinykh\n";
-    std::cout << "20\n";
-    std::cout << "naruto\n";
+    std::cout << "andrey ilinykn";
+    std::cout << "20";
+    std::cout << "naruto";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
